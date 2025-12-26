@@ -1,0 +1,12 @@
+REPO_TAGLINE: Quantum fields • symmetries • perturbation theory
+ASSETS_DIR: .github/readme
+CTA_TEXT: Upcoming topic ...
+THEME: workload
+SITE_URL: https://academic-codex.github.io/PGF5107-Introducao-a-Teoria-Quantica-de-Campos-I
+
+BG_1: "#020617"
+BG_2: "#0F172A"
+TEXT_MAIN: "#F8FAFC"
+TEXT_MUTED: "#CBD5F5"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
