@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/PGF5107-Introducao-a-Teoria-Quantica-de-Campos-I">
-    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:35.527787Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:28.048242Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
