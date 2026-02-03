@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/PGF5107-Introducao-a-Teoria-Quantica-de-Campos-I">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:30.523385Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/PGF5107-Introducao-a-Teoria-Quantica-de-Campos-I?utm_source=PGF5107-Introducao-a-Teoria-Quantica-de-Campos-I&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:15.962302Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
